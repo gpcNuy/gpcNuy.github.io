@@ -5,3 +5,4 @@ google play console of Nuy
 <br>
 <br>[ links ]
 <br>https://gpcnuy.github.io/ko/link
+<br>https://gpcnuy.github.io/ko/link/temp
