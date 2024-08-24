@@ -2,3 +2,6 @@
 google play console of Nuy
 <br>
 <br>https://gpcnuy.github.io/
+<br>
+<br>[ links ]
+<br>https://gpcnuy.github.io/ko/link
