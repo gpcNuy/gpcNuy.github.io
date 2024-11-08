@@ -9,3 +9,9 @@ google play console of Nuy
 <br>[ Links ]
 <br>https://gpcnuy.github.io/ko/link
 <br>https://gpcnuy.github.io/ko/link/temp
+<br><hr>
+<br>[ TheNuy ]
+<br>https://github.com/thenuy/thenuy.github.io
+<br>
+<br>[ UEGNuy ]
+<br>https://github.com/uegnuy/uegnuy.github.io
