@@ -13,5 +13,5 @@ google play console of Nuy
 <br>[ TheNuy ]
 <br>https://github.com/thenuy/thenuy.github.io
 <br>
-<br>[ UEGNuy ]
-<br>https://github.com/uegnuy/uegnuy.github.io
+<br>[ UEGYun ]
+<br>https://github.com/uegyun/uegyun.github.io
