@@ -1,7 +1,7 @@
 # APPs
 <br>[ Google Adsense ]
 <br>https://adsense.google.com/
-<br>Adsense 인증파일 => ads.txt
+<br>소유권 인증파일 => ads.txt
 <br>
 <br>[ Google Cearch Console ]
 <br>https://search.google.com/search-console?hl=ko&resource_id=https://gpcnuy.github.io/ko/app/
