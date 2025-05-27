@@ -21,7 +21,7 @@ google play console of Nuy
 <br><hr>
 # APPs
 <br>[ Google PlayConsole ]
-<br>https://play.google.com/
+<br>https://play.google.com/console/
 <br>개발자 페이지
 <br>https://play.google.com/console/u/1/developers/7110889186190962161/app-list?pli=1
 <br>
