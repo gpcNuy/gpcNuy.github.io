@@ -24,11 +24,13 @@ google play console of Nuy
 <br>https://play.google.com/
 <br>개발자 페이지
 <br>https://play.google.com/console/u/1/developers/7110889186190962161/app-list?pli=1
+<br>
 <br>[ Google AdMob ]
 <br>https://admob.google.com/
 <br>앱 인증파일 => app-ads.txt
 <br>PlayConsole => 해당 앱 => 앱 정보 => 스토어 설정 => 웹 사이트 => 파일 위치와 같은지 확인(하위 도메인 제외).
 <br>https://admob.google.com/v2/home?sac=true&authuser=1
+<br>
 <br>[ Google Adsense ]
 <br>https://adsense.google.com/
 <br>소유권 인증파일 => ads.txt
