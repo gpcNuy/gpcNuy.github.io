@@ -8,8 +8,8 @@ google play console of Nuy
 <br>
 <br>[ Webs ]
 <br>https://gpcnuy.github.io/checkyo/
-<br>https://gpcnuy.github.io/develop-laboratory/
-<br>https://gpcnuy.github.io/nuycearch/
+<br>https://gpcnuy.github.io/ko/develop-laboratory/
+<br>https://gpcnuy.github.io/ko/nuycearch/
 <br>
 <br>[ Pribacy Policy ]
 <br>https://gpcnuy.github.io/privacy-policy/checkyo/
