@@ -40,6 +40,6 @@ google play console of Nuy
 <br>[ Google Admob ]
 <br>https://admob.google.com/v2/home?sac=true&authuser=1
 <br>앱 인증파일 => app-ads.txt
-<br>PlayConsole => 해당 앱 => 앱 정보 => 스토어 설정 => 웹 사이트 => 파일 위치와 같은지 확인(하위 도메인 제외).
+<br>PlayConsole => 해당 앱 => 앱 정보(사용자 늘리) => 스토어 설정 => 웹 사이트 => 파일 위치와 해당 URL이 같은지 확인(하위 도메인 제외).
 <br>
 <br><hr>
