@@ -11,6 +11,7 @@ google play console of Nuy
 <br>
 <br>[ Pribacy Policy ]
 <br>https://gpcnuy.github.io/privacy-policy/develop-laboratory
+<br>https://gpcnuy.github.io/privacy-policy/nuycearch
 <br>
 <br>[ Links ]
 <br>https://gpcnuy.github.io/ko/link/
