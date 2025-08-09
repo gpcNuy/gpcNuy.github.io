@@ -9,6 +9,9 @@ google play console of Nuy
 <br>[ Webs ]
 <br>https://gpcnuy.github.io/checkyo/
 <br>
+<br>[ Pribacy Policy ]
+<br>https://gpcnuy.github.io/pribacy-policy/develop-laboratory
+<br>
 <br>[ Links ]
 <br>https://gpcnuy.github.io/ko/link/
 <br>https://gpcnuy.github.io/ko/link/temp/
