@@ -15,11 +15,11 @@ google play console of Nuy
 <br>https://gpcnuy.github.io/ko/link/
 <br>https://gpcnuy.github.io/ko/link/temp/
 <br><hr>
-<br>
-<br>[ Pribacy Policy ]
+[ Pribacy Policy ]
 <br>https://gpcnuy.github.io/privacy-policy/checkyo/
 <br>https://gpcnuy.github.io/privacy-policy/develop-laboratory/
 <br>https://gpcnuy.github.io/privacy-policy/nuycearch/
+<br>
 <br>[ TheNuy ]
 <br>https://github.com/thenuy/thenuy.github.io/
 <br>
